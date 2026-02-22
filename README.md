@@ -67,7 +67,7 @@ The complete project documentation, design, and implementation details are avail
 
 ---
 
-## 📷 Project Demonstration
+## 📷 Project Implementation & Results
 
 <img width="528" height="789" alt="image" src="https://github.com/user-attachments/assets/1951186b-b359-434c-baa1-88f8d30be0d9" />
 <img width="900" height="555" alt="image" src="https://github.com/user-attachments/assets/13ff922c-ded0-4a4a-8e05-d01ccc73516f" />
